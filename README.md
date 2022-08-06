@@ -8,5 +8,5 @@
 
 <span>B7WEB </span> https://alunos.b7web.com.br
 
-<hr style="border:1px solid #444">
+<hr style="border:0.5px solid #444">
 
