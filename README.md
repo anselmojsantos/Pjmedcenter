@@ -5,5 +5,3 @@
 <p>Projeto sendo realizado com B7web<p>
 
 <span>Link :</span> <p>https://anselmojsantos.github.io/Pjmedcenter/<p>
-
-<p>Testando o push<p>
